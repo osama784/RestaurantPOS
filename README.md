@@ -1,6 +1,6 @@
 # Restaurant POS
 
-manage your market's orders with a beautifull and interactive GUI👌
+manage your market's orders with a beautifull and interactive GUI👌<br>
 Created by me and my friend in Damascus University.
 
 Clone the project to your local computer:
