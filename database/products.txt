@@ -1,0 +1,11 @@
+Meet margirita,1000.0,Cooking,potato - chicken - vegetables,true
+Margirita,1000.0,Pizza,potato - chicken - vegetables,true
+horak osbaoo ,120.00 ,Cooking ,addas - onin - vegetables, false
+mjadra,150.0,Cooking,addas - onin - vegetables,true
+meet pizza,450.0,Pizza,meet - pizza,true
+chicken pizza,100.0,Pizza,potato - chicken - vegetables,true
+horak osbaoo,120.0,Cooking,addas - onin - vegetables,true
+salmon,2000.0,Fish,salmonfish - lemon,true
+grilled kibbeh,300.0,Grilled,bulgur - meet,true
+pepsi,100.0,Drinks,cola,true
+avocado ,600.50 ,Vegetables ,avocado - oil, true

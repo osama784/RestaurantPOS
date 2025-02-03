@@ -1,0 +1,11 @@
+Ahmad, HR, 1000, 123
+Amjad,Chef,190.0,1111
+noor, Chef, 800,  789
+baraa, Chef, 800,  123
+baraa,Chef,900.0,123
+bilal,Cashier,1200.0,789
+rami,Delivery,155.5,1111
+ramee,Delivery,155.5,1111
+lma,Delivery,1900.0,00111
+omar ,Cashier ,2300.00 ,1010 
+sidra,waiter,2314.0,0999
