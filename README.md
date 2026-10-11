@@ -1,6 +1,6 @@
 # Restaurant POS
 
-manage your market's orders with a beautifull and interactive GUI👌<br>
+manage your market's orders with a beautiful and interactive GUI👌<br>
 Created by me and my friend in Damascus University.
 
 Clone the project to your local computer:
@@ -20,10 +20,10 @@ then run it.
 
 ### 2. General Idea:
 
--   Using CardLayout System, we created some panels, and each one has a functionality to do (ex: Order, Kitchen, ..etc).
--   Handling all types of orders: (Take away, on table, Deliviry) and paying methods.
+-   Using CardLayout System, we created some panels, and each one has a functionality to do (ex: Order, Kitchen, etc.).
+-   Handling all types of orders: (Take away, on table, Delivery) and paying methods.
 -   Report panel for showing statistics about profits and other things.
 
-### Hope you get benefit from it ❤️
+### Hope you benefit from it ❤️
 
-### [My Portfolio](https://portfolio-osama784s-projects.vercel.app/) 😊
+### [My Portfolio](https://osamadoage.vercel.app/) 😊
